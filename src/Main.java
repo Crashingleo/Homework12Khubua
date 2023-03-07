@@ -8,5 +8,9 @@ public class Main {
 
         warAndPeace.printInfo();
         idiot.printInfo();
+
+        warAndPeace.setYear(1900);
+
+        warAndPeace.printInfo();
     }
 }
